@@ -13,7 +13,7 @@ I'm the creator and maintainer of [Antidot Framework](https://github.com/antidot
 
 #### 🔌 Tech
 
-I'm convinced PHP's [PSR](https://www.php-fig.org/)advocate which is always learning, I like playing around with Async PHP.
+I'm convinced PHP's [PSR](https://www.php-fig.org/) advocate which is always learning, I like playing around with Async PHP.
 
 I love reading tech books, attending events and meetups, and Sometimes I write as [PHP-FAD](https://medium.com/php-fad) on Medium.
 
