@@ -1,4 +1,4 @@
-Hi 👋, my name is **[Koldo Picaza]()**, I'm a self-taught PHP developer since 2011.
+Hi 👋, my name is [Koldo Picaza](https://github.com/sponsors/kpicaza), I'm a self-taught PHP developer since 2011.
 
 ---
 
