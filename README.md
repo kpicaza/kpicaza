@@ -4,7 +4,7 @@ Hi 👋, my name is **[Koldo Picaza]()**, I'm a self-taught PHP developer since 
 
 #### 💾 Software
 
-I work as a **backend developer** at [@drincs&co](https://github.com/uvinum), and I love **doing** and **contributing to Open Source** on my free time.
+I work as a **backend developer** at [Drinks&CO](https://github.com/uvinum), and I love **doing** and **contributing to Open Source** on my free time.
 
 I'm the creator and maintainer of [Antidot Framework](https://github.com/antidot-framework), a PSR-15 Middleware-based PHP micro Framework made for learning purposes. Also, I'm a core team member at [Pheature Flags](https://github.com/pheature-flags) Feature toggling library.
 
