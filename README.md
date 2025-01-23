@@ -4,7 +4,7 @@ Hi 👋, my name is [Koldo Picaza](https://github.com/sponsors/kpicaza),. I'm a 
 
 #### 💾 Software
 
-I work as a **backend developer** at Lifull Connect, and I love **doing** and **contributing to Open Source** in my free time.
+I work as a **Software Crafter** at Codurance Connect, and I love **doing** and **contributing to Open Source** in my free time.
 
 I'm the creator and maintainer of [Antidot Framework](https://github.com/antidot-framework), PSR-15 Middleware-based PHP micro Framework made for learning purposes. Also, I'm a core team member at [Pheature Flags](https://github.com/pheature-flags) toggling library.
 
